@@ -13,4 +13,4 @@ Technology:
 We used Android Studio paired with the LIBGDx framework to develop this app. We also used tools like Photoshop and TexturePacker for the UI.
 
 Developer:
-Myself and <a href="https://github.com/ArsalaBangash">Arsala Bangash</a>
+<a href="https://github.com/ArsalaBangash">Arsala Bangash</a> and I.
